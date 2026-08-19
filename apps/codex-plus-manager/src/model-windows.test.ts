@@ -22,6 +22,7 @@ const _profileTypeCheck: RelayProfile = {
   protocol: "responses",
   relayMode: "official",
   officialMixApiKey: false,
+  hideOfficialUsageAlert: false,
   testModel: "",
   configContents: "",
   authContents: "",
